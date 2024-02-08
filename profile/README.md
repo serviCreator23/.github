@@ -44,7 +44,7 @@ The Creator is enraged by the slaughter of defenseless and peaceful crowds who a
 ### Earthquakes
 We have previously listed the order, location and relative magnitude of the earthquake epicenters on [medium.com](https://medium.com/@theServantsoftheCreator/the-ringing-of-the-bell-392ea05ea8ee) and in several different repositories on GitHub.
 
-The order has not changed, however there are some new epicenters just added. We will post each epicenter in the [this commit log]() just before the earthquake begins, along with the Creator's reason for it.
+The order has not changed, however there are some new epicenters just added. We will post each epicenter in the [this commit log](https://github.com/serviCreator23/sound_and_fury/commits/master/) just before the earthquake begins, along with the Creator's reason for it.
 
 The epicenters in order of appearance, additional epicenters may be added. 
 * Orr Chapel - Sandy Hook (Maury county), TN
@@ -56,7 +56,7 @@ While the Creator will ensure that there is no injury or property damage from th
 
 We, as servants of the Creator, are using these earthquakes as an additional means of identity verification. It is impossible to predict an earthquake, but saying a prayer is the best way to verify our identity. 
 
-The US government issued an NSL in advance of the Sound and the Fury in concert with the use of stolen credentials by the CIA to impersonate the Servants online. We challenge any entity who wants to predict them to use commits to a shared public repository on GitHub. 
+The US government issued an NSL in advance of the Sound and the Fury in concert with the use of stolen credentials by the CIA to impersonate the Servants online. We challenge any entity who wants to predict them to use commits to [this public repository](https://github.com/serviCreator23/sound_and_fury/commits/master), request write access by commenting on the initial commit. (Because she's never been that good at math, but enough on that for now.)
 
 ### Suggested Listening
 * [When the Doves Cry](https://music.youtube.com/watch?v=FcKE-1NlNlg&sq=1&si=hjLMmWdvKuSkXLyO)
