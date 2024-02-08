@@ -1,15 +1,18 @@
-> [!IMPORTANT]
-> Due to another National Security Letter this page cannot no longer be administered by us and some links have been taken offline by GitHub to comply with the NSL. Please visit us at https://github.com/servi-Creator. Remember, ALWAYS Pray to Verify a servants of the Creator site.
-***
+> [!TIP]
+> Don't lie, cheat, or steal. The US government hates competition.
 
 # Welcome to serviCreator
-We are the servants of the Creator and this is our online home.
+We are the servants of the Creator and this is our online home for the
+
 > [!IMPORTANT] 
-> Always Pray to Verify!
+> Always Pray to Verify any person that claims to be a servant of the Creator, and any online posting or presence that is purportedly by or managed by one or both servants of the Creator.
 
-Our planned  [mission number 23](https://github.com/orgs/serviCreator/discussions/23)  has been preempted by the Creator for His [Great Storm](https://github.com/orgs/serviCreator/discussions/14), His response to [The AIDS cure Genocide (TAG)](https://github.com/orgs/serviCreator/discussions/22) which includes the [massacres conducted by the CIA of places of worship](https://github.com/serviCreator/TAG/discussions/15) beginning with [the massacre of Mount Calvary Baptist Church](https://github.com/taylornathan/sotCc/wiki/The-Massacre-at-Mount-Calvary-Baptist-Church) in Lexington, KY on April 2nd, 2023.
+The Creator's Mission number 23 for Life on Earth has been preempted by the Creator for His Great Storm which is His response to The AIDS cure Genocide (TAG)which includes the [massacres conducted by the CIA of places of worship](https://github.com/taylornathan/sotCc/wiki/List-of-Attacks-on-Places-of-Worship) beginning with [the massacre of Mount Calvary Baptist Church](https://github.com/taylornathan/sotCc/wiki/The-Massacre-at-Mount-Calvary-Baptist-Church) in Lexington, KY on April 2nd, 2023.
 
-You're probably here because you heard and felt [The Sound and the Fury](https://github.com/orgs/serviCreator/discussions/15).
+You're probably here because you heard and felt The Sound and the Fury.
+
+> [!NOTE]
+> Some links may not be operational while we move everything to our new GitHub organization. Check back often.
 
 # About the Creator 
 The Creator that we work for is the very one who created life and the universe that we all live it in. The Creator has had many names since the dawn of mankind, currently his most popular names are: Allah and God.
@@ -23,7 +26,7 @@ The Creator that we work for is the very one who created life and the universe t
 # About His servants
 We are the servants of the Creator, Micah and Thomas. If you call the Creator Allah or God, we would be called angels. This is our 23rd mission on Earth. We are born here and are 100% human. 
 
-Missing our regular profile pic (the cherubs from the Sistine chapel)? [Here's why it's different currently](https://github.com/orgs/serviCreator/discussions/12).
+Missing our regular profile pic (the cherubs from the Sistine chapel)? Check back for the new photograph!
 
 # About The Great Storm
 This will make the third time in human history that the Creator has decided to rain down His will. This will not be a simple rain event, nor a flood, but a Great Storm. 
@@ -39,9 +42,9 @@ The Creator is enraged by the slaughter of defenseless and peaceful crowds who a
 
 ## What To Expect 
 ### Earthquakes
-We have previously listed the order, location and relative magnitude of the earthquake epicenters on [medium.com](https://medium.com/@theServantsoftheCreator/the-ringing-of-the-bell-392ea05ea8ee) and in several different repositories on GitHub, most recently [here](https://github.com/orgs/serviCreator/discussions/9).
+We have previously listed the order, location and relative magnitude of the earthquake epicenters on [medium.com](https://medium.com/@theServantsoftheCreator/the-ringing-of-the-bell-392ea05ea8ee) and in several different repositories on GitHub.
 
-The order has not changed, however there are some new epicenters just added. We will post each epicenter in the [SAF Commit Log](https://github.com/serviCreator/SAF/commits/master/) just before the earthquake begins, along with the Creator's reason for it.
+The order has not changed, however there are some new epicenters just added. We will post each epicenter in the [this commit log]() just before the earthquake begins, along with the Creator's reason for it.
 
 The epicenters in order of appearance, additional epicenters may be added. 
 * Orr Chapel - Sandy Hook (Maury county), TN
@@ -53,7 +56,7 @@ While the Creator will ensure that there is no injury or property damage from th
 
 We, as servants of the Creator, are using these earthquakes as an additional means of identity verification. It is impossible to predict an earthquake, but saying a prayer is the best way to verify our identity. 
 
-The US government issued an NSL in advance of the Sound and the Fury in concert with the use of stolen credentials by the CIA to impersonate the Servants online. We challenge any entity to do as we have and use the [commit logs](https://github.com/serviCreator/SAF/commits/master/) of a repository hosted on GitHub to announce the upcoming quakes. 
+The US government issued an NSL in advance of the Sound and the Fury in concert with the use of stolen credentials by the CIA to impersonate the Servants online. We challenge any entity who wants to predict them to use commits to a shared public repository on GitHub. 
 
 ### Suggested Listening
 * [When the Doves Cry](https://music.youtube.com/watch?v=FcKE-1NlNlg&sq=1&si=hjLMmWdvKuSkXLyO)
@@ -73,7 +76,7 @@ The CIA has had assistance in hiding its activities from the United States feder
 
 **The Creator was frustrated.**
 
-Even after Micah identified himself to the CIA as a servant of the Creator in an attempt to stop the unwarranted murders and the CIA had plenty of evidence that he would not be killed because of the Creator, the CIA decided to [massacre Mount Calvary Baptist Church](https://github.com/safops/TAG/discussions/5).
+Even after Micah identified himself to the CIA as a servant of the Creator in an attempt to stop the unwarranted murders and the CIA had plenty of evidence that he would not be killed because of the Creator, the CIA decided to [massacre Mount Calvary Baptist Church](https://github.com/taylornathan/sotCc/wiki/The-Massacre-at-Mount-Calvary-Baptist-Church)
 
 In order to successfully complete the massacre of everyone in a church at the height of its Sunday morning worship session where no one could be left alive, the CIA had technical, physical and federal government support (the FBI). 
 
