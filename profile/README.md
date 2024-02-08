@@ -1,5 +1,5 @@
 > [!TIP]
-> Don't lie, cheat, or steal. The US government hates competition.
+> Don't lie, cheat, or steal. The US government hates competition. [(more)](https://github.com/orgs/serviCreator23/discussions/1)
 
 # Welcome to serviCreator
 We are the servants of the Creator and this is our online home for the
